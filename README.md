@@ -7,7 +7,7 @@
 - Chef marketing: Bouwt startpagina
 - Chef kwaliteit: Programmeert controles
 - Manager: Bouwt teamoverzicht
-  # [Productnaam]
+ # [ChoiceOverload]
 
 ## Klantwens
 [Wie is de klant en wat wil die kunnen doen?]
